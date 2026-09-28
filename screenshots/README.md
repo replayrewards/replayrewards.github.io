@@ -5,10 +5,10 @@ page automatically — no code changes needed:
 
 | File | Section | What to capture |
 |---|---|---|
-| `workspaces.png` | Agent workspaces | Sidebar with workspaces and their projects |
-| `data.png` | Data you can see | Data pane showing real dataset samples |
-| `finetune.png` | Fine-tune anywhere | Training template + run terminal |
-| `traces.png` | Everything is traceable | Outputs pane / persisted traces |
+| `agents.png` | Agents that run the research loop | Chat pane with a plan ready for approval |
+| `repl.png` | A REPL into the core agent | Transcript with thinking, tool rows, a question card |
+| `kernels.png` | Real kernels, not mockups | Editor cells + interactive window with outputs |
+| `workspaces.png` | Everything stays on your Mac | Full window: sidebar, editor, interactive window |
 
 Recommended: 1600×1000 (16:10) PNG. Until a file exists, the site shows a
 styled placeholder frame in its place.
